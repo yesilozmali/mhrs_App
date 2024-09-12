@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "809011831038",
+    "firebase_url": "https://auth-797ae-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-797ae",
+    "storage_bucket": "auth-797ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809011831038:android:3840bf90d48667ff7cc5af",
+        "android_client_info": {
+          "package_name": "com.example.mhrs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLH5ZlDQzUs2ZWS_k9mx4EdOrZ19ofkGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
